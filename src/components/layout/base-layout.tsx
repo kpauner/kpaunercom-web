@@ -1,13 +1,13 @@
 import { ReactNode } from "react";
 import { NextIntlClientProvider } from "next-intl";
 import { getMessages } from "next-intl/server";
+import { Geist_Mono } from "next/font/google";
+import { Geist } from "next/font/google";
+import { cn } from "@/lib/utils";
 import { ThemeProvider } from "@/providers/theme-provider";
 import OverlayProvider from "@/providers/overlay-provider";
 import QueryProvider from "@/providers/query-provider";
 import { AuthProvider } from "@/providers/auth-provider";
-import { Geist_Mono } from "next/font/google";
-import { Geist } from "next/font/google";
-import { cn } from "@/lib/utils";
 
 const geistSans = Geist({
   variable: "--font-geist-sans",
