@@ -11,6 +11,7 @@ export default function PostsList() {
     <div className="h-full w-full overflow-auto">
       <div className="mb-20 py-12 text-center text-sm h-[1200px]">
         Scroll down
+        <pre>{JSON.stringify(posts, null, 2)}</pre>
       </div>
       <div className="flex items-end justify-center pb-12 bg-red-500">
         <InView

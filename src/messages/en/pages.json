@@ -1,0 +1,121 @@
+{
+  "index": {
+    "title": "Learn Danish the Natural Way",
+    "description": "Discover Danish through your favorite movies, TV shows, and music. Rodgrod transforms authentic Danish media into an engaging learning experience.",
+    "kicker": "Atleast dozens use Rodgrod to learn Danish.",
+    "buttonText": "Sign up",
+    "newsletter": "Sign up for our newsletter to receive updates",
+    "testimonials": {
+      "title": "What our users say",
+      "data": [
+        {
+          "avatar": "https://github.com/shadcn.png",
+          "title": "Sarah Mitchell",
+          "subtitle": "International Business Consultant",
+          "description": "After six months with Rodgrod, I can finally understand my Danish in-laws during family dinners!"
+        },
+        {
+          "avatar": "https://github.com/shadcn.png",
+          "title": "Marco Rossi",
+          "subtitle": "University Student",
+          "description": "Danish movies and TV shows helped me pick up everyday expressions that I never found in textbooks."
+        },
+        {
+          "avatar": "https://github.com/shadcn.png",
+          "title": "Jennifer Chen",
+          "subtitle": "Software Developer",
+          "description": "I love how the app uses scenes from Danish dramas to teach new words - it makes them so much more memorable!"
+        },
+        {
+          "avatar": "https://github.com/shadcn.png",
+          "title": "Maria Santos",
+          "subtitle": "Healthcare Professional",
+          "description": "Being able to practice with real Danish media content has improved my pronunciation tremendously."
+        },
+        {
+          "avatar": "https://github.com/shadcn.png",
+          "title": "Erik Anderson",
+          "subtitle": "Marketing Manager",
+          "description": "I started learning Danish to connect with my heritage, and Rodgrod made it feel less daunting."
+        },
+        {
+          "avatar": "https://github.com/shadcn.png",
+          "title": "James O'Connor",
+          "subtitle": "Flight Attendant",
+          "description": "One minute I'm completing dialogue from 'Borgen', the next I'm learning vocabulary from 'The Bridge'. It's addictive!"
+        }
+      ]
+    },
+    "features": {
+      "title": "Features",
+      "data": [
+        {
+          "title": "Learn Danish through your favorite movies, TV shows, and music",
+          "description": "Rodgrod transforms authentic Danish media into an engaging learning experience."
+        },
+        {
+          "title": "Track your progress",
+          "description": "Rodgrod tracks your progress and provides personalized recommendations based on your learning style and goals."
+        },
+        {
+          "title": "Learn at your own pace",
+          "description": "Rodgrod allows you to learn Danish at your own pace, without the pressure of a traditional classroom."
+        },
+        {
+          "title": "Cultural Immersion",
+          "description": "Rodgrod allows you to practice with real Danish media, so you can learn Danish in a natural way."
+        }
+      ]
+    },
+    "faq": {
+      "title": "<highlight>Questions?</highlight> We got answers.",
+      "data": [
+        {
+          "question": "Will you be adding more media?",
+          "answer": "We are working on adding more media to the platform. We will be adding more movies, TV shows, and music in the future."
+        },
+        {
+          "question": "How does Rodgrod work?",
+          "answer": "Rodgrod uses AI to analyze Danish media and extract vocabulary, phrases, and cultural context."
+        }
+      ]
+    },
+    "call-to-action-text": {
+      "title": "Rødgrød med fløde"
+    }
+  },
+  "auth": {
+    "signIn": "Sign in",
+    "signUp": "Sign up",
+    "signOut": "Sign out",
+    "dashboard": "Dashboard",
+    "google": "Sign in with Google"
+  },
+  "subscription": {
+    "currentPlan": "Current Plan",
+    "free": "Free",
+    "pricePerMonth": "${price} / month",
+    "plans": {
+      "free": {
+        "name": "Free",
+        "description": "Get started with Rodgrod for free."
+      },
+      "pro": {
+        "name": "Pro",
+        "description": "Pro tier that offers x, y, and z features."
+      }
+    },
+    "features": {
+      "custom-page-image-background": "Custom Page Image Background",
+      "custom-css": "Custom CSS",
+      "support-rodgrod": "Support Rodgrod"
+    }
+  },
+  "NotFoundPage": {
+    "title": "Page not found",
+    "description": "The page you are looking for does not exist."
+  },
+  "LocaleLayout": {
+    "title": "kpauner - Frontend development and design"
+  }
+}
