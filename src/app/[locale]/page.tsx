@@ -1,3 +1,4 @@
+import Header from "@/components/layout/header";
 import { Button } from "@/components/ui/button";
 import { appConfig } from "@/config/app.config";
 import PostsList from "@/features/posts/components/posts-list";
@@ -22,6 +23,7 @@ export default async function Home() {
     return (
       <div>
         <h1>{t("title")}</h1>
+        <Header />
         <Button>Click me</Button>
         <PostsList />
       </div>
