@@ -9,8 +9,10 @@ export default function PostsList() {
   const { data: posts } = useGetPosts();
   return (
     <div className="h-full w-full overflow-auto">
-      <div className="mb-20 py-12 text-center text-sm">Scroll down</div>
-      <div className="flex h-[1200px] items-end justify-center pb-12">
+      <div className="mb-20 py-12 text-center text-sm h-[1200px]">
+        Scroll down
+      </div>
+      <div className="flex items-end justify-center pb-12 bg-red-500">
         <InView
           viewOptions={{ once: true, margin: "0px 0px -250px 0px" }}
           variants={{
@@ -25,7 +27,7 @@ export default function PostsList() {
             },
           }}
         >
-          <div className="columns-2 gap-4 px-8 sm:columns-3">
+          <div className="columns-2 gap-4 px-8 sm:columns-3 bg-teal-500">
             {[
               "https://images.beta.cosmos.so/e5ebb6f8-8202-40ec-bc70-976f81153501?format=jpeg",
               "https://images.beta.cosmos.so/1b6f1bee-1b4c-4035-9e93-c93ef4d445e1?format=jpeg",
