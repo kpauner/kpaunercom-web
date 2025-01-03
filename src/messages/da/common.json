@@ -1,0 +1,89 @@
+{
+  "common": {
+    "welcome": "Welcome",
+    "save": "Save",
+    "close": "Close",
+    "signup": "Sign Up",
+    "loading": "loading...",
+    "signin": "Sign In",
+    "logout": "Sign Out",
+    "no-results": "No results",
+    "pagination": "Page {current} of {total}",
+    "changes-saved": "Changes saved",
+    "save-failed": "Save failed",
+    "unsaved-changes": "Unsaved changes",
+    "retry": "Retry",
+    "none_selected": "None selected"
+  },
+  "navigation": {
+    "main": {
+      "title": "Main",
+      "dashboard": {
+        "title": "Dashboard"
+      },
+      "tests": {
+        "title": "Tests"
+      }
+    },
+    "media": {
+      "movies": {
+        "title": "Movies",
+        "items": {
+          "history": "History",
+          "starred": "Starred",
+          "settings": "Settings"
+        }
+      },
+      "tvShows": {
+        "title": "TV Shows",
+        "items": {
+          "genesis": "Genesis",
+          "explorer": "Explorer",
+          "quantum": "Quantum"
+        }
+      },
+      "music": {
+        "title": "Music",
+        "items": {
+          "introduction": "Introduction",
+          "getStarted": "Get Started",
+          "tutorials": "Tutorials",
+          "changelog": "Changelog"
+        }
+      }
+    },
+    "user": {
+      "account": "Account",
+      "billing": "Billing",
+      "appearance": "Appearance"
+    },
+    "footer": [
+      {
+        "title": "Privacy Policy",
+        "url": "/privacy"
+      },
+      {
+        "title": "Terms of Service",
+        "url": "/terms"
+      }
+    ],
+    "header": [
+      {
+        "title": "Home",
+        "url": "/"
+      },
+      {
+        "title": "About",
+        "url": "/about"
+      },
+      {
+        "title": "Pricing",
+        "url": "/pricing"
+      },
+      {
+        "title": "Contact",
+        "url": "/contact"
+      }
+    ]
+  }
+}
